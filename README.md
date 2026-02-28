@@ -63,15 +63,15 @@ This will create an "Out" folder containing the files for the program.
 # Gallery
 Sprites were created using Asperite
 <p align="center">
-  <img src="assets/gallery/tree-draft.png" width="45%">
-  <img src="assets/gallery/sun-draft.png" width="45%">
-</p>
-<p align="center">
-  <img src="assets/gallery/moon-draft.png" width="45%">
-  <img src="assets/gallery/cloud-draft.png" width="45%">
+  <img src="assets/gallery/tree-draft.png" width="24%">
+  <img src="assets/gallery/sun-draft.png" width="24%">
+  <img src="assets/gallery/moon-draft.png" width="24%">
+  <img src="assets/gallery/cloud-draft.png" width="24%">
 </p>
 
 ## Designing
 Designing and Drafting were created using Figma
+
 <img src="assets/gallery/figma-draft.png">  
-Figma Design File: https://www.figma.com/design/72vj7rLtmchiXWKGwgZFhP/Weather-App-Widget?m=auto&t=l29G6OfkNmNXwUka-1
+
+Figma Design File: https://www.figma.com/design/72vj7rLtmchiXWKGwgZFhP/Weather-App-Widget?m=auto&t=jJYRlCW3AwwRWAS3-1
