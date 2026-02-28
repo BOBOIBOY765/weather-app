@@ -61,7 +61,7 @@ npm run package
 This will create an "Out" folder containing the files for the program.
 
 # Gallery
-Sprites were created using Asperite
+Sprites were modelled using Asperite
 <p align="center">
   <img src="assets/gallery/tree-draft.png" width="24%">
   <img src="assets/gallery/sun-draft.png" width="24%">
@@ -70,7 +70,7 @@ Sprites were created using Asperite
 </p>
 
 ## Designing
-Designing and Drafting were created using Figma
+Designing and Drafting were produced using Figma
 
 <img src="assets/gallery/figma-draft.png">  
 
