@@ -1,4 +1,4 @@
-# Weather App
+# LeafCast
 
 A desktop weather application built with HTML, CSS, Javascript and ElectronJS
 
