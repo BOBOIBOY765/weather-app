@@ -8,10 +8,14 @@ A desktop weather application built with Electron.
 - Fast and lightweight
 ## Screenshot
 
-![App Screenshot1](assets/photo1.png)
-![App Screenshot2](assets/photo2.png)
-![App Screenshot3](assets/photo3.png)
-![App Screenshot4](assets/photo4.png)
+<p align="center">
+  <img src="assets/photo1.png" width="45%">
+  <img src="assets/photo2.png" width="45%">
+</p>
+<p align="center">
+  <img src="assets/photo3.png" width="45%">
+  <img src="assets/photo4.png" width="45%">
+</p>
 ## Installation
 ```bash
 npm install
