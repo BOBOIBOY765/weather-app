@@ -1,6 +1,6 @@
 # Weather App
 
-A desktop weather application built with Electron.
+A desktop weather application built with HTML, CSS, Javascript and ElectronJS
 
 ## Features
 - Simple desktop interface
@@ -19,6 +19,18 @@ A desktop weather application built with Electron.
   <img src="assets/photo4.png" width="45%">
   <img src="assets/photo3.png" width="45%">
 </p>
+
+## Files
+| File / Folder | Purpose |
+| --- | --- |
+| `index.html` | HTML layout of the app |
+| `styles.css` | All the styles for the app |
+| `script.js` | Javascript running the code in the background |
+| `main.js` | Electron main process to create a desktop window and load UI |
+| `package.json` | Project metadata & dependencies |
+| `.gitignore` | Files and folders ignored by Git |
+| `assets/` | Contains Images, Icons needed for the app|
+| `package-lock.json` | Auto-generated lock file for dependencies |
 
 ## Installation
 
